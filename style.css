@@ -1,0 +1,98 @@
+
+h2 {
+background-color: black;
+font-family: monospace;
+color: white;
+}
+p {
+text-align: justify;
+font-family: Arial;
+color: white;
+}
+body {
+background-color: black;
+font-family: monospace;
+color: white;
+}
+#family {
+font-family: monospace;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-family: "Lucida", monospace;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:visited {
+   color: white;
+  text-decoration: none;
+  background-color: white;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+h5 {
+	text-align: left;
+	color: white;
+	font-family: monospace;
+	background-color: black;
+}
+h3 {
+text-align: center;
+background-color: black;
+font-family: "Lucida", monospace;
+color: white;
+}
+h4 {
+text-align: center;
+background-color: black;
+font-family: monospace;
+color: white;
+}
+h1 {
+text-align: center;
+background-color: black;
+font-family: monospace;
+color: white;
+}
+#logo {
+border-radius: 50%;
+float: left;
+}
+#text {
+	margin-left: 400px;
+	font-family: monospace;
+}
+#creator {
+	margin-left: 300px;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column {
+  flex: 25%;
+  max-width: 50%;
+  padding: 0 1px;
+}
+
+.column img {
+  margin-top: 1px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+
